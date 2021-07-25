@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Veranith/Veranith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## On GitHub I am:
+- I am learning as a member of the *Microsoft LEAP Internal Program*
+- Learning C, C#, ASP.NET, Python, AI with Python.
+- Contributing to the local charity Meals on Wheels 
+
+
+## I enjoy:
+
+
+## Professional
