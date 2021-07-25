@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 
 
 ## I enjoy:
+- Learning new things
+- Computer Networking
+- Charity Work
+- Amateur Radio
+- Disc Golf
 
 
-## Professional
+## Professional:
