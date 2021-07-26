@@ -40,4 +40,4 @@ Linkedin: https://www.linkedin.com/in/ryrob
 - I deployed our current cloud based applications and database servers.
 - Currently leanring more about programming so I can update our applications with new features.  
 
-![cat gif](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
