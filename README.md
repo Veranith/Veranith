@@ -33,14 +33,13 @@ Linkedin: https://www.linkedin.com/in/ryrob
 
 &nbsp;
 
-
-![Microsoft](img\Microsoft-logo_rgb_c-gray_10.png)
+![Microsoft](./img/Microsoft-logo_rgb_c-gray_10.png)
 - Currently a member of the Microsoft LEAP Internal Program
 - Create PowerShell modules and scripts for local team use.
 
 &nbsp;
 
-![Meals on Wheels](img\CHMOW_Local_Horz_CMYK_65.jpg)
+![Meals on Wheels](./img/CHMOW_Local_Horz_CMYK_65.jpg)
 
 &nbsp;
 
