@@ -47,4 +47,10 @@ Linkedin: https://www.linkedin.com/in/ryrob
 - I deployed our current cloud based applications and database servers.
 - Currently learning more about programming so I can update our applications with new features.  
 
+&nbsp;
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=veranith&theme=discord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+&nbsp;
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veranith&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
